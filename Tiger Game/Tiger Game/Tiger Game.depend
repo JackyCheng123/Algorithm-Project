@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524519159 source:h:\csi 3344\tiger game\tiger game\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<limits.h>
+	<vector>
+	<algorithm>
+
